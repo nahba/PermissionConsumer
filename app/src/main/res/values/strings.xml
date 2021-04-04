@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PermissionConsumer</string>
+    <string name="start_exposer">Start Exposer</string>
+</resources>
